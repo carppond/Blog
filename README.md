@@ -4,8 +4,10 @@
 ## 逆向相关
 
 - [Mach-O](https://github.com/lixianshen/Blog/blob/master/2018-09-03-Mach-O.md)
+- [LLDB 解密-砸壳 Framework](https://github.com/lixianshen/Blog/blob/master/2018-10-15-LDB%20解密-砸壳%20Framework.md)
+- [获取 Block 的参数和返回值](https://github.com/lixianshen/Blog/blob/master/2018-10-25-获取%20Block%20的参数和返回值.md)
 - [反汇编 Block 的内部逻辑实现](https://github.com/lixianshen/Blog/blob/master/2018-11-02-反汇编%20block%20的内部逻辑实现.md)
-- [LLDB 解密-砸壳 Framework](https://github.com/lixianshen/Blog/blob/master/2018-10-28-LDB%20解密-砸壳%20Framework.md)
+
 
 
 ## 基础知识
